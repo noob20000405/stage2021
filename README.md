@@ -1,4 +1,4 @@
 # stage2021
-- test for tow inequality 
-  - code : test1.m
-  - result : output.txt
+- P1 : test for tow inequality 
+  - code : P1/test1.m
+  - result : P1/output.txt
