@@ -2,7 +2,7 @@ u = 2^-24;
 
 rng('shuffle');
 
-%{ valeur du k %}
+%{ valeur du k, on a testé pour k de 5 à 10 %}
 k = 10;
 x = 1.2;
 while x <= 2.0
