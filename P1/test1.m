@@ -3,7 +3,7 @@ u = 2^-53;
 
 rng('shuffle')
 
-fileID = fopen('/home/asus/upmc/intership/2/output.txt', 'w');
+fileID = fopen('/home/asus/upmc/internship/2/output.txt', 'w');
 fprintf(fileID, "left    right[formula_1    formula_2]\n");
 
 %{ boucle pour tester %}
